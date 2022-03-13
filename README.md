@@ -1,2 +1,3 @@
-# matrix-rain
-HTML canvas matrix rain animation
+# Matrix Rain
+
+> HTML canvas matrix rain animation
